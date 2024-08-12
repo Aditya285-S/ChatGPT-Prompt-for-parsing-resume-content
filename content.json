@@ -1,0 +1,80 @@
+{
+  "name": "Aditya Shelar",
+  "contact_information": {
+    "phone": "+91-8624948505",
+    "email": "shelaraditya490@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/aditya-shelar-57305a233/",
+    "github": "https://github.com/Aditya285-S",
+    "huggingface": "https://huggingface.co/Adi-69s/"
+  },
+  "education": [
+    {
+      "institution": "Vishwakarma Institute of Information Technology, Pune",
+      "degree": "B.Tech in Artificial Intelligence and Data Science",
+      "duration": "2021 - 2025",
+      "cgpa": "9.22"
+    },
+    {
+      "institution": "Abhishek Junior College, Pune",
+      "degree": "HSC",
+      "percentage": "84.67%",
+      "year": "2021"
+    },
+    {
+      "institution": "Modern Highschool, Pune",
+      "degree": "SSC",
+      "percentage": "85.20%",
+      "year": "2019"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Vishwa-Bot",
+      "technologies": ["LLM", "Python", "HTML", "CSS", "JS", "Chainlit"],
+      "description": "Chatbot system with integrated QA capabilities using open-source LLM model, Hugging Face embeddings, and FAISS for vector storage."
+    },
+    {
+      "title": "Toxicity Terminator: Comment Classifier",
+      "technologies": ["Python", "BeautifulSoup", "TF-IDF", "Random Forest Classifier", "Streamlit"],
+      "description": "Developed a Toxic Comment Classifier integrated into a Streamlit web application."
+    },
+    {
+      "title": "ATM Connect",
+      "technologies": ["Python", "FastAPI", "MySQL", "HTML", "CSS", "JS"],
+      "description": "ATM machine simulation using FastAPI and MySQL with a user-friendly interface."
+    },
+    {
+      "title": "Multi-Dashboard Analytics",
+      "technologies": ["PowerBI", "Tableau"],
+      "description": "Created dashboards to visualize data on gun deaths in America, software developer surveys, e-commerce sales, and dowry cases in India."
+    }
+  ],
+  "technical_skills": {
+    "languages": ["Python", "Java", "C", "C++"],
+    "technologies": ["Scikit-learn", "TensorFlow", "Keras", "Pandas", "NLTK", "Fast-API", "MySQL", "MongoDB"],
+    "tools": ["Tableau", "PowerBI", "VsCode", "Jupyter Notebook", "GitHub"],
+    "concepts": ["Data Science", "Machine Learning", "NLP", "Deep Learning", "DBMS", "Seq to Seq models"]
+  },
+  "achievements": [
+    {
+      "title": "Prompt Engineering Competition - AI Artist",
+      "details": "Secured 1st rank in BNY Mellon sponsored competition among 109 teams."
+    }
+  ],
+  "experience": [
+    {
+      "organization": "Artificial Intelligence and Student Association club",
+      "role": "Member",
+      "location": "Pune, Maharashtra",
+      "year": "2023",
+      "description": "Successfully conducted Vizathon for Data Visualization competition with over 100+ participants."
+    }
+  ],
+  "certificates": [
+    {
+      "title": "Machine Learning A-Z",
+      "platform": "Udemy",
+      "details": "Completed course on data preprocessing techniques and various ML algorithms."
+    }
+  ]
+}
